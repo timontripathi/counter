@@ -15,5 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "counter"
 include(":app")
-include(":counterlib")
 include(":counterlibrary")
